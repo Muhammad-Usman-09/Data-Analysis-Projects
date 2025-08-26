@@ -1,6 +1,7 @@
 # Data Analysis Projects
 
-A collection of data analysis projects utilizing Python for various datasets. These projects demonstrate skills in data cleaning, visualization, and statistical analysis.
+A collection of Python-based data analysis projects demonstrating skills in data cleaning, preprocessing, visualization, and statistical analysis.
+Each project uses Pandas, Matplotlib/Seaborn, and Streamlit to create interactive dashboards and insights.
 
 ---
 
@@ -45,7 +46,9 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 ### 2. Medical Data Visualizer
 
 **Overview**  
-The **Medical Data Visualizer** project focuses on visualizing and analyzing medical examination data. This project explores the relationships between various health metrics, such as BMI, cholesterol levels, and glucose levels, providing insights into health trends and patterns.
+The Medical Data Visualizer project analyzes and visualizes a cardiovascular health dataset.
+It highlights relationships between BMI, blood pressure, cholesterol, glucose, lifestyle factors and the risk of cardiovascular disease.
+
 
 **Dataset**  
 The dataset includes medical examination results with the following columns:
