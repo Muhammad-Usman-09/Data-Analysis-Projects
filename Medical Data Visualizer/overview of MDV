@@ -1,0 +1,12 @@
+📖 Overview
+
+This project is a Streamlit-based interactive dashboard that visualizes a cardiovascular disease dataset.
+It preprocesses the medical data by calculating BMI/Overweight, normalizing cholesterol & glucose values, and converting age into years for better readability.
+
+The app allows users to apply filters (age range, gender) and generates:
+
+    Categorical Plots → Show how lifestyle and health factors (cholesterol, glucose, smoking, alcohol, activity, overweight) relate to cardiovascular disease.
+    
+    Correlation Heatmap → Displays correlations among medical measurements (blood pressure, height, weight, etc.) to identify strong relationships.
+
+Built with Pandas, NumPy, Seaborn, Matplotlib, and Streamlit, this project makes medical data exploration more intuitive and visual
