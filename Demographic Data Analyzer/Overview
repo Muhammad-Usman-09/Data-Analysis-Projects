@@ -1,0 +1,15 @@
+📖 Overview
+
+This project is a Streamlit-based web application that analyzes the Census Income Dataset.
+It provides interactive demographic insights such as age distribution, education levels, work hours, income categories, and occupations.
+
+Users can apply filters (age, working hours, native country) to dynamically explore the dataset.
+The app then displays results in the form of charts, metrics, and visualizations for better understanding.
+
+Key technologies used:
+
+  Pandas → Data loading and preprocessing
+  
+  Streamlit → Interactive dashboard & UI
+  
+  Matplotlib → Visualization (histograms, charts)
